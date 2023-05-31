@@ -69,24 +69,24 @@ p {
 }
 
 .content {
-    width: 77%;
+    width: 80%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 1%;
 }
 
 .benefits {
-    margin-right: 20px;
-    padding: 20px;
+    margin-right: 1%;
+    padding: 1%;
     clear: both;
     float: right;
-    width: 20%;
+    width: 17%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
 .benefit {
-    margin-bottom: 32px;
+    margin-bottom: 10%;
     color: #ffffff;
 }
 
@@ -102,8 +102,8 @@ p {
 }
 
 .content-part {
-    margin-bottom: 20px;
-    padding: 50px;
+    margin-bottom: 1%;
+    padding: 2%;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
